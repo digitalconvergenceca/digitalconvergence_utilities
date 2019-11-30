@@ -1,0 +1,10 @@
+{
+    "name": "digitalconvergenceca/digitalconvergence_utilities",
+    "description": "A set of utilities, helpers and so forth to assist in rapid Drupal 8 development.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "required-dev": { },
+    "require": { }
+}
