@@ -1,0 +1,9 @@
+name: 'Utilities'
+description: 'A set of utilities, helpers and so forth to assist in rapid Drupal 8 development.'
+package: 'Digital Convergence'
+type: module
+core: 8.x
+version: 1.0
+
+dependencies:
+  - drupal:system
