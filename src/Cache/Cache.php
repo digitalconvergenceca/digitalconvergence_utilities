@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\digitalconvergence_utilities;
+namespace Drupal\digitalconvergence_utilities\Cache;
 
 use Drupal\Core\Cache\Cache as CacheBase;
 use Drupal\Core\Cache\CacheableDependencyInterface;
