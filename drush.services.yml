@@ -1,0 +1,6 @@
+services:
+  digitalconvergence_utilities.commands.entity_definition:
+    class: Drupal\digitalconvergence_utilities\Commands\EntityDefinitionCommands
+    arguments: ['@entity_type.manager', '@entity.definition_update_manager']
+    tags:
+      - { name: drush.command }
